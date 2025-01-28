@@ -1,14 +1,14 @@
 # Campus-Connect
-<b> campus connect - allows the people to publish and share the events that are happening in the campus <b>
+<b> Campus connect - Allows the people to publish and share the events that are happening in the campus <b>
 
-#Ravi
-## real time notification and reminders
+# Ravi
+## Real time notification and reminders
 #prasanth
-## deployment and feedback analysis 
-#Vijaya
-## user profile management 
-## event discovery and search
+## Deployment and feedback analysis 
+# Vijaya
+## User profile management 
+## Event discovery and search
 # Geetha
-## social interaction 
+## Social interaction 
 # Stuthi kiran
-## linking of map and location of the event
+## Linking of map and location of the event
