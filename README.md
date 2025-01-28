@@ -3,7 +3,7 @@
 
 # Ravi
 ## Real time notification and reminders
-#prasanth
+# Prasanth
 ## Deployment and feedback analysis 
 # Vijaya
 ## User profile management 
